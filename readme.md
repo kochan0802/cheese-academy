@@ -2,7 +2,7 @@
 
 ## DEMO
 
-  - デプロイしている場合はURLを記入（任意）
+  - https://kochan0802.github.io/cheese-academy/w
 
 ## 紹介と使い方
 
@@ -12,13 +12,21 @@
 ## 工夫した点
 
   - 画像のリサイズ
-    - オリジナルロゴの作成
-
+  - オリジナルロゴの作成
+  - タイトルやh2などの装飾
+  - 写真を常に動かすタグを設置
+  - ニュースのセンター画像に動きを追加
 
 ## 苦戦した点
 
-  - 明日の自分への伝言も大事
+  - トップに戻るボタンの設置
+  - FlexBoxを使った学校の詳細がうまく作れなかった
+  - 行間などがうまく開けられなかった
 
 ## 参考にした web サイトなど
 
-  - 後で見返せるように
+  - https://saruwakakun.com/html-css/reference/h-design
+  - https://webdesign-trends.net/entry/8148
+  - https://www.esz.co.jp/blog/2847.html
+  
+
